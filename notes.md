@@ -1,0 +1,1 @@
+[https://aws.amazon.com/premiumsupport/knowledge-center/s3-access-denied-listobjects-sync/](https://aws.amazon.com/premiumsupport/knowledge-center/s3-access-denied-listobjects-sync/)
