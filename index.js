@@ -9,7 +9,7 @@ exports.handler = async (event, context, callback) => {
   console.log('Event details:', JSON.stringify(event, undefined, 2));
   try {
     const data = await client.send(command);
-    console.log('S3 bucket data:', data);
+    console.log('S3 bucket data:', JSON.stringify(data));
   } 
   catch (error) {
     console.log('there was an error retreiving data');
